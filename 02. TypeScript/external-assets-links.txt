@@ -1,0 +1,12 @@
+
+002 TypeScript
+https://www.typescriptlang.org/
+
+004 Primitive-Types
+https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean
+
+011 TC39-Proposals
+https://github.com/tc39/proposals
+
+012 TSConfig
+https://www.typescriptlang.org/tsconfig
