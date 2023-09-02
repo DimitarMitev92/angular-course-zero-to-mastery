@@ -1,0 +1,18 @@
+
+002 Dog-Image
+https://picsum.photos/id/237/500/500
+
+004 Type-Assertions
+https://picsum.photos/images
+
+004 EventTarget-Interface
+https://microsoft.github.io/PowerBI-JavaScript/interfaces/_node_modules_typedoc_node_modules_typescript_lib_lib_dom_d_.eventtarget.html
+
+007 Style-Guide
+https://angular.io/guide/styleguide#avoid-aliasing-inputs-and-outputs
+
+008 Prefix-Guideline
+https://angular.io/guide/styleguide#dont-prefix-output-properties
+
+010 Lifecycle-Hooks
+https://angular.io/guide/lifecycle-hooks

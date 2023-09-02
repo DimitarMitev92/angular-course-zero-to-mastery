@@ -1,0 +1,21 @@
+
+002 Pipes
+https://angular.io/api?type=pipe
+
+003 Angular-Dev-Tools
+https://angular.io/guide/devtools
+
+004 Custom-Format-Options
+https://angular.io/api/common/DatePipe#custom-format-options
+
+005 Currency-Codes
+https://en.wikipedia.org/wiki/ISO_4217
+
+006 Debugging-with-Pipes
+https://angular.io/api/common/JsonPipe
+
+007 Directives
+https://angular.io/api?type=directive
+
+011 Shorthand-Examples
+https://angular.io/guide/structural-directives#shorthand-examples
