@@ -1,0 +1,15 @@
+
+005 Subscription-Object
+https://rxjs.dev/guide/subscription
+
+006 RxJS-Reference
+https://rxjs.dev/api
+
+009 JSON-Placeholder
+https://jsonplaceholder.typicode.com/
+
+012 Map-Operator
+https://rxjs.dev/api/operators/map
+
+018 JSON-Placeholder-URL
+https://jsonplaceholder.typicode.com/todos/1
