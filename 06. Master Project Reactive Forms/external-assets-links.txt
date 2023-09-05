@@ -1,0 +1,27 @@
+
+006 Validation-Functions
+https://angular.io/api/forms/Validators
+
+009 Form-Controller-Status
+https://angular.io/api/forms/AbstractControl
+
+013 Email-Validator
+https://angular.io/api/forms/Validators#email
+
+014 Validators-Min
+https://angular.io/api/forms/Validators#min
+
+015 Pattern-Validator
+https://angular.io/api/forms/Validators#pattern
+
+015 Regular-Expressions-Tool
+https://regexr.com/
+
+016 NGX-Mask
+https://www.npmjs.com/package/ngx-mask
+
+018 FormGroup-Class
+https://angular.io/api/forms/FormGroup
+
+018 Tailwind-States
+https://tailwindcss.com/docs/hover-focus-and-other-states
